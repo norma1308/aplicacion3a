@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>squares</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/pure/</ImageTemplate>
+            <ImageTemplateName>Pure</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/app3/visor/indexwow.html</PublishFileName>
+            <PublishIndex>indexwow.html</PublishIndex>
+            <PublishPath>J:/app3/visor</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>pure</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/app3/imagenes/Popocatepetl.jpg</url>
+                <title>Popocatepetl</title>
+            </Image>
+            <Image>
+                <url>J:/app3/imagenes/popocatepetl1.jpg</url>
+                <title>popocatepetl1</title>
+            </Image>
+            <Image>
+                <url>J:/app3/imagenes/popocatepetl2.jpg</url>
+                <title>popocatepetl2</title>
+            </Image>
+            <Image>
+                <url>J:/app3/imagenes/popocatepetl3.jpg</url>
+                <title>popocatepetl3</title>
+            </Image>
+            <Image>
+                <url>J:/app3/imagenes/colima.jpg</url>
+                <title>colima</title>
+            </Image>
+            <Image>
+                <url>J:/app3/imagenes/popocatepetlerupcion.jpg</url>
+                <title>popocatepetlerupcion</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
